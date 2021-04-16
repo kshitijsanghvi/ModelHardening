@@ -1,0 +1,2 @@
+Run "ExtractForegroundOfAllImages.py"
+Re-run "Vanilla+DataAugmentation to get Vanilla+DataAugmentation+ForegroundExtraction  
